@@ -1,2 +1,5 @@
 # HCDS_Final_Project
-Repository for my final project for HCSD 512, Fall 2017
+
+This repository contains the data, code and report for the HCDS 512 final project titled Veggie Tales. 
+
+
